@@ -16,6 +16,10 @@
     border-radius: 0.5rem;
     color: white;
 }
+
+.logo {
+    margin-right: 1rem;
+}
     
 .nav{
     margin-top: 1.5rem;
